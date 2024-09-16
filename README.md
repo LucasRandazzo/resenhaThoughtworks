@@ -1,6 +1,6 @@
 # Reflexões sobre o "Thoughtworks Technology Radar"
 
-Como estudante do quarto semestre de Engenharia de Software, ao ler o **"Thoughtworks Technology Radar - Abril 2024"**, fiquei positivamente surpreso com a riqueza de informações e insights apresentados sobre o atual cenário tecnológico. O documento serve como um guia abrangente que aborda tendências emergentes, práticas recomendadas e ferramentas que estão moldando a indústria de tecnologia da informação.
+Como estudante do quarto semestre de Engenharia de Software, ao ler o **"Thoughtworks Technology Radar"**, fiquei positivamente surpreso com a riqueza de informações e insights apresentados sobre o atual cenário tecnológico. O documento serve como um guia abrangente que aborda tendências emergentes, práticas recomendadas e ferramentas que estão moldando a indústria de tecnologia da informação.
 
 ## Licenças de Código (Quase) Aberto
 
@@ -34,6 +34,6 @@ Também acho que seria interessante uma discussão mais aprofundada sobre as imp
 
 ## Considerações Finais
 
-Em conclusão, o **"Thoughtworks Technology Radar - Abril 2024"** é uma leitura indispensável para quem deseja se manter atualizado sobre as tendências que estão redefinindo o cenário tecnológico. O artigo oferece uma análise detalhada de temas cruciais, promovendo reflexões importantes sobre o futuro da tecnologia e sua influência na sociedade.
+Em conclusão, o **"Thoughtworks Technology Radar"** é uma leitura indispensável para quem deseja se manter atualizado sobre as tendências que estão redefinindo o cenário tecnológico. O artigo oferece uma análise detalhada de temas cruciais, promovendo reflexões importantes sobre o futuro da tecnologia e sua influência na sociedade.
 
 Como estudante de engenharia de software, sinto-me motivado a aprofundar meus conhecimentos nas áreas abordadas e a participar ativamente das discussões que moldam a nossa indústria. A tecnologia está em constante evolução, e é essencial que estejamos preparados para contribuir de forma ética e inovadora nesse processo.
